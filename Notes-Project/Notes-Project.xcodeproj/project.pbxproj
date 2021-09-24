@@ -15,6 +15,8 @@
 		F33B639826FDCE9800279A2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F33B639626FDCE9800279A2B /* LaunchScreen.storyboard */; };
 		F33B63A326FDCE9900279A2B /* Notes_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33B63A226FDCE9900279A2B /* Notes_ProjectTests.swift */; };
 		F33B63AE26FDCE9900279A2B /* Notes_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33B63AD26FDCE9900279A2B /* Notes_ProjectUITests.swift */; };
+		F33B63BC26FDD24B00279A2B /* Reinschreiben.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33B63BB26FDD24B00279A2B /* Reinschreiben.swift */; };
+		F33B63BE26FDD25A00279A2B /* Gespeichert.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33B63BD26FDD25A00279A2B /* Gespeichert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		F33B63A926FDCE9900279A2B /* Notes-ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Notes-ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F33B63AD26FDCE9900279A2B /* Notes_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes_ProjectUITests.swift; sourceTree = "<group>"; };
 		F33B63AF26FDCE9900279A2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F33B63BB26FDD24B00279A2B /* Reinschreiben.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reinschreiben.swift; sourceTree = "<group>"; };
+		F33B63BD26FDD25A00279A2B /* Gespeichert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gespeichert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				F33B639426FDCE9800279A2B /* Assets.xcassets */,
 				F33B639626FDCE9800279A2B /* LaunchScreen.storyboard */,
 				F33B639926FDCE9800279A2B /* Info.plist */,
+				F33B63BB26FDD24B00279A2B /* Reinschreiben.swift */,
+				F33B63BD26FDD25A00279A2B /* Gespeichert.swift */,
 			);
 			path = "Notes-Project";
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 				F33B639026FDCE9700279A2B /* ViewController.swift in Sources */,
 				F33B638C26FDCE9700279A2B /* AppDelegate.swift in Sources */,
 				F33B638E26FDCE9700279A2B /* SceneDelegate.swift in Sources */,
+				F33B63BE26FDD25A00279A2B /* Gespeichert.swift in Sources */,
+				F33B63BC26FDD24B00279A2B /* Reinschreiben.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
